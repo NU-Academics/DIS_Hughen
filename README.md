@@ -30,9 +30,11 @@ XGBoost-Base-Binary.ipynb		# XGBoost with Binary classification
 
 XGBoost-Base-Multi.ipynb		# XGBoost with 18-class classification
 
-XGBoost-Base-Multi.ipynb		# XGBoost with 3-class classification
+XGBoost-Base-Multi-Reduced.ipynb	# XGBoost with 3-class classification
 
 XGBoost-Multi-Inference.ipynb		# XGBoost with 18-class classification, adversarial examples tested
+
+XGBoost-Multi-Reduced\_Inference.ipynb	# XGBoost with 3-class classification, adversarial examples tested
 
 undersampled\_CIC2019\_dataset.csv	# UNIDS CIC IDS 2019 Dataset
 
