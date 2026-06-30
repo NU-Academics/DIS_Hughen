@@ -2,6 +2,10 @@
 
 Assessing the Robustness of ML-Trained Intrusion Detection Systems under Adversarial Perturbations
 
+## Artificial Intelligence Disclosure
+
+This README was generated with the assistance of Claude (Anthropic AI). While the structure and content reflect the repository's actual layout and research objectives, researchers should verify technical details, code functionality, and specific findings against the original notebook implementations before citing or building upon this documentation.
+
 ## Overview
 
 This repository investigates the vulnerability of machine learning-based intrusion detection systems (IDS) to adversarial attacks. Using the UNIDS CIC IDS 2019 dataset, we evaluate how data poisoning and adversarial examples—generated via projected gradient descent (PGD)—degrade the detection performance of trained models.
@@ -173,13 +177,18 @@ https://github.com/NU-Academics/DIS_Hughen
 
 ## License
 
-[See LICENSE file in repository, if present]
+This work is licensed under a **Creative Commons Attribution 4.0 International License** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-## Contact & Support
+**You are free to:**
+- Share, copy, and redistribute the material in any medium or format
+- Adapt, remix, transform, and build upon the material for any purpose, including commercial
 
-For questions or issues:
-- Open an issue on GitHub
-- Contact: NU-Academics (Northwestern University)
+**Under the following terms:**
+- **Attribution** – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For full details, see [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 ## Notes for Researchers
 
