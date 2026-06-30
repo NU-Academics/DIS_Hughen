@@ -1,0 +1,8 @@
+RQ2
+Can introducing semantically valid, artificially crafted, and maliciously altered network flow perturbations, creating the effects of a network evasion attack, into an IDS training dataset, such as the Unified Multimodal NIDS CIC-IDS2019 dataset, reduce the robustness of an existing pre-trained model? 
+
+RQ3 
+Using a surrogate model, can a model inversion attack that combines legitimate traffic with perturbed data at different composition rates affect the robustness of an XGBoost-trained IDS model?
+
+RQ4
+ To what extent do evasion attacks generated with no information about the model parameters (black-box) compare to evasion attacks against models hardened using adversarial training with full parameter knowledge (white-box)?
