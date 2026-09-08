@@ -129,9 +129,14 @@ NU-Academics/DIS_Hughen. https://github.com/NU-Academics/DIS_Hughen
 
 ## License
 
-Licensed under a **Creative Commons Attribution 4.0 International License** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+This repository is dual-licensed by content type.
 
-**You are free to:** share and adapt the material for any purpose, including commercial, provided you give appropriate credit, link to the license, and indicate changes. **No additional restrictions.** See [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+- **Code** — the notebooks, scripts, and model definitions are released under the **MIT License**. See [`LICENSE-CODE`](LICENSE-CODE).
+- **Everything else** — text, figures, tables, documentation, and derived result files are released under a **Creative Commons Attribution 4.0 International License** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). See [`LICENSE`](LICENSE).
+
+**You are free to:** share and adapt the material for any purpose, including commercial, provided you give appropriate credit, link to the license, and indicate changes. **No additional restrictions.**
+
+**Third-party data:** the CIC-IDS2019 dataset is not covered by either license above and remains subject to the terms of the Canadian Institute for Cybersecurity. See [https://www.unb.ca/cic/datasets/ddos-2019.html](https://www.unb.ca/cic/datasets/ddos-2019.html).
 
 ## Notes for Researchers
 
